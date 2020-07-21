@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Problem1_4",
+            "request": "launch",
+            "mainClass": "CTCI.Chapter1.Problem1_4",
+            "projectName": "DataStructuresAndAlgorithms_98a421ac"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem1_3",
+            "request": "launch",
+            "mainClass": "CTCI.Chapter1.Problem1_3",
+            "projectName": "DataStructuresAndAlgorithms_98a421ac"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem1_1",
+            "request": "launch",
+            "mainClass": "CTCI.Chapter1.Problem1_1",
+            "projectName": "DataStructuresAndAlgorithms_98a421ac"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
