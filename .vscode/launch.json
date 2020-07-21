@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Problem1_5",
+            "request": "launch",
+            "mainClass": "CTCI.Chapter1.Problem1_5",
+            "projectName": "DataStructuresAndAlgorithms_b25fdd15"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Problem1_4",
             "request": "launch",
             "mainClass": "CTCI.Chapter1.Problem1_4",
