@@ -1,4 +1,4 @@
-package CTCI.Chapter1;
+package ctci.chapter1;
 
 public class Problem1_3 {
     public static void main(String[] theArgs) {
